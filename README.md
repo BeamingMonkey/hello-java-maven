@@ -77,7 +77,3 @@ Edit
 Hello, Jenkins + Maven!
 Author
 Arun Raj
-
-css
-Copy
-Edit
